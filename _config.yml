@@ -20,10 +20,10 @@ timezone: Europe/Warsaw
 
 title: Łukasz Łukasik's Stream of Consciousness # the main title
 
-tagline: Collection of my thoughts and experiences # it will display as the sub-title
+tagline: Collection of my thoughts # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Collection of my thoughts and experiences
+  Collection of my thoughts
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://virious.github.io"
