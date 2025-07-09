@@ -20,4 +20,4 @@ I hope all of you find your inner peace.
 
 #psychotherapy #mentalwellbeing #motivation
 
-![People awarded with board awards standing on a stage](/assets/img/healing-in-progress.jpg)
+![Black and white picture of my sad face](/assets/img/healing-in-progress.jpg)
